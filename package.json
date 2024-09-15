@@ -4,6 +4,9 @@
   "description": "",
   "main": "index.js",
   "type": "module",
+  "repository": {
+    "url": "https://github.com/samliebl/word-matching.git"
+  },
   "directories": {
     "lib": "lib"
   },
